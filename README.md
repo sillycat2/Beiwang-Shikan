@@ -1,2 +1,2 @@
 # Beiwang-Shikan
-Every issue of the journal of Beiwang Poetry Club
+北望诗刊的每一期。
